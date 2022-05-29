@@ -19,8 +19,7 @@ facematch.py - comparing the the two images
 To run that file use command -  python facematch.py
 
 
-pullfaces.py - used to pull faces out of a group image and save them 
-To run that file use command -  python pullfaces.py
+pullfaces.py - used to pull faces out of a group image and save them. To run that file use command -  python pullfaces.py
 
 
 indentify.py - shows the names of the persons present in the image 
