@@ -6,8 +6,7 @@ This project is developed for face recognition using python face recognition lib
 To work with this project we need to install virtual environment by using the command - 
 pip install pipenv
 
-Next thing we need to install is face recognition library. To work with the face detection we need to install face recognition library.
-Command to install - pip install face_recognition
+Next thing we need to install is face recognition library. To work with the face detection we need to install face recognition library. Command to install - pip install face_recognition
 
 In the project we are having different files. Explanation -
 
